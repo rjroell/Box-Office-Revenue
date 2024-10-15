@@ -12,14 +12,14 @@ Once the data appeared to be presented in a clean format, the following step was
 
 My expectation prior to this was Action/Adventure movies would generate the largest box office revenue. This was validated with the Adventure genre category commanding the largest revenue of $308m combined. Note that the  Action genre is a seperate category and is ranked sixth within this dataset. 
 
-It is worth noting that the highest grossing film on its own is Despicable Me 2 whcih is a Comedy. Overall, Comedies rank ninth in box office revenue. 
+It is worth noting that the highest grossing film on its own is Despicable Me 2 which is a Comedy. Overall, Comedies rank ninth in box office revenue. 
 
 As for the second question, "does higher box office revenue equate to higher profit margin?" The answer is no. Documentary and Horror genres have the largest proft margin at 85% and 81% respectively. 
 
 ### Recommendations
 For studios and filmmakers looking to decide on what genre of movie to produce we need to look at what their financial goal is.
 If a studio or filmmaker is wanting to gross the highest revenue, then they should explore an Adventure movie.
-If they are looking to receive the best return, producing a Documentary would be the best option.
+If they are looking to receive the highest return, producing a Documentary would be the best option.
 
 ### Limitations
 The data reveiwed does present some limitations. The main issue is the time period the movies being reviewed. We are only looking at movies released between 2012 and 2016. A decade worth of movie box office revenues would provide a better sameple. This would take into account consumer preference changes as they aged along with consumers taste if studios oversaturated the market with one type of genre.
