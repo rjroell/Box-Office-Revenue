@@ -22,6 +22,6 @@ If a studio or filmmaker is wanting to gross the highest revenue, then they shou
 If they are looking to receive the best return, producing a Documentary would be the best option.
 
 ### Limitations
-The data reveiwed does pressent some limitations. The main issue is the time period the movies being reviewed. We are only looking at movies released between 2012 and 2016. A decade worth of movie box office revenues would provide a better sameple. This would take into account consumer preference changes as they aged along with consumers taste if studios oversaturated the market with one type of genre.
+The data reveiwed does present some limitations. The main issue is the time period the movies being reviewed. We are only looking at movies released between 2012 and 2016. A decade worth of movie box office revenues would provide a better sameple. This would take into account consumer preference changes as they aged along with consumers taste if studios oversaturated the market with one type of genre.
 
 Another issue presented with this data is how it only looks at US films. A studio would need to understand who their main consumers are prior to deciding on genre as other parts of the world may have different preferences.  
